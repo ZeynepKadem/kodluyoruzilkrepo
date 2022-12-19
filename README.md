@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # kodluyoruzilkrepo
-Bu repo [Kodluyoruz](https://kodluyoruz.org/)oEğitimi kapsamında açtığım ilk repo
+Bu repo [Kodluyoruz](https://kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo
 
 ## Installation 
 '''
